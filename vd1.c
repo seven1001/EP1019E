@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*Function name: main
+* agurment: none
+* return: none 
+***************************/
 int main()
 {
 	int a;
